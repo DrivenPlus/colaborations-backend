@@ -1,1 +1,1 @@
-import  { name }  from '@/controllers';
+import mainFunction, { name } from '@/controllers';
